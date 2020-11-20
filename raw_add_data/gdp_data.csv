@@ -1,0 +1,631 @@
+GeoFips,GeoName,LineCode,Description,2011,2012,2013
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",1,All industry total,277405509,287570424,299918186
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",2,  Private industries,250779823,260962774,273113553
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),602096
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",267771,228417,231368
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",10,    Utilities,3704264,3582854,(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",11,    Construction,(D),(D),8712524
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",12,    Manufacturing,24796297,24893756,25434336
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),11697446
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),13736889
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),29267947
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",35,    Retail trade,14903243,15651643,16329761
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),15165417
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",45,    Information,(D),(D),31136557
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",52754957,56757916,59916064
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",51,      Finance and insurance,(D),(D),(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,(D),(D),(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",59,    Professional and business services,41014554,43318419,44789479
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),26477495
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,(D),(D),(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",(D),(D),22260824
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",69,      Educational services,(D),(D),4394134
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",70,      Health care and social assistance,(D),(D),17866690
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",9035272,9632142,(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",(D),(D),(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",79,      Accommodation and food services,(D),(D),(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),5091216,5314810,5518360
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",83,Government and government enterprises,26625686,26607651,26804633
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",,Addenda:,,,
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),833464
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",88,Trade,(D),(D),45597708
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D)
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",90,Manufacturing and information,(D),(D),56570893
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,34120190,34105385,34980324
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,216659633,226857389,238133229
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",1,All industry total,94641424,99254274,105076383
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",2,  Private industries,81873016,86120209,91228953
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",30161,60176,81128
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",1182604,1090154,1045378
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",10,    Utilities,788426,792281,659701
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",11,    Construction,3926878,4417061,4926663
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",12,    Manufacturing,13969235,12668695,13119160
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",13,      Durable goods manufacturing,12966037,11567345,11738184
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,1003198,1101350,1380976
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",34,    Wholesale trade,10662985,11846633,12011185
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",35,    Retail trade,5465327,5858068,6259365
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",36,    Transportation and warehousing,1304041,1553874,1658909
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",45,    Information,5983353,6099462,6744002
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",13081010,14215642,15352496
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",51,      Finance and insurance,4360601,4935533,5408001
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,8720409,9280109,9944495
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",59,    Professional and business services,13310665,14377920,15547612
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",9709176,10669731,11498134
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D)
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,(D),(D),(D)
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",6254195,6700861,6934914
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",69,      Educational services,775808,830338,860740
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",70,      Health care and social assistance,5478387,5870523,6074174
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",3637605,3990528,4251965
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",653357,(D),(D)
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",79,      Accommodation and food services,2984248,(D),(D)
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),2276530,2448854,2636475
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",83,Government and government enterprises,12768408,13134066,13847430
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",,Addenda:,,,
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",87,Natural resources and mining,1212765,1150330,1126506
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",88,Trade,16128313,17704701,18270550
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",89,Transportation and utilities,2092467,2346155,2318611
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",90,Manufacturing and information,19952589,18768157,19863161
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,19108878,18236086,19172329
+12420,"Austin-Round Rock-Georgetown, TX (Metropolitan Statistical Area)",92,Private services-providing industries 3/,62764138,67884123,72056624
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",1,All industry total,340778444,357087616,365670891
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",2,  Private industries,305948117,323342588,330917081
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",88970,90949,93397
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",10,    Utilities,4760740,4629285,4844466
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",11,    Construction,8799884,9466517,(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",12,    Manufacturing,34607376,35140597,(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",13,      Durable goods manufacturing,24999720,25028694,24093802
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,9607657,10111903,(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",34,    Wholesale trade,18812276,18835815,19663070
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",35,    Retail trade,12720563,12875443,13323890
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",45,    Information,22966037,22632395,23853304
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",75298495,84560333,84828342
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",51,      Finance and insurance,29692072,36584365,35468314
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,45606423,47975968,49360028
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",59,    Professional and business services,62104125,66238752,67255412
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",44958447,48335120,48754992
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",64,      Management of companies and enterprises,7407765,7937840,8321955
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,9737914,9965792,10178465
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",41957762,44032456,45303149
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",69,      Educational services,11508045,11900398,12216948
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",70,      Health care and social assistance,30449717,32132058,33086201
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",11858241,12606509,13607697
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",3497304,3658522,4184167
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",79,      Accommodation and food services,8360936,8947988,9423530
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),5999131,6221854,6387938
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",83,Government and government enterprises,34830327,33745029,34753810
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",,Addenda:,,,
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",88,Trade,31532839,31711258,32986961
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",90,Manufacturing and information,57573413,57772992,(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,(D),(D),(D)
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",92,Private services-providing industries 3/,(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",1,All industry total,117106245,127361099,129874487
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",2,  Private industries,106077882,116171292,118148724
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",395706,557359,609475
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",92306,73879,81778
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",10,    Utilities,(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",11,    Construction,3407150,4017883,4714265
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",12,    Manufacturing,16284998,17006983,18490135
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",13,      Durable goods manufacturing,7971373,8477294,8951162
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,8313624,8529689,9538973
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",34,    Wholesale trade,8562903,9141162,9564070
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",35,    Retail trade,5938543,6332782,6816646
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),4375879
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",45,    Information,5035425,4919726,5185949
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",29778320,35238747,32884738
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",51,      Finance and insurance,18605567,23268572,20310474
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,11172753,11970175,12574264
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",59,    Professional and business services,(D),17621819,17907309
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,(D),(D),4805126
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",6762491,7043247,7110017
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",69,      Educational services,(D),(D),860570
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",70,      Health care and social assistance,(D),(D),6249447
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",79,      Accommodation and food services,(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),2040917,2299471,2439381
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",83,Government and government enterprises,11028363,11189807,11725763
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",,Addenda:,,,
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",87,Natural resources and mining,488012,631238,691253
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",88,Trade,14501446,15473944,16380717
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D)
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",90,Manufacturing and information,21320423,21926709,23676083
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,20180159,21656104,23895653
+16740,"Charlotte-Concord-Gastonia, NC-SC (Metropolitan Statistical Area)",92,Private services-providing industries 3/,85897723,94515188,94253071
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",1,All industry total,532961747,561588192,577664306
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",2,  Private industries,480773682,508763428,522687445
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",684904,550397,906359
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",290500,272006,267092
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",10,    Utilities,6058052,(D),5864810
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",11,    Construction,14891650,16056859,18863370
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",12,    Manufacturing,70196959,74725013,71587852
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),36044345
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),35543507
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",35,    Retail trade,26584144,27774420,28754922
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),23967605
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",45,    Information,(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",113144825,122113683,124360342
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",51,      Finance and insurance,48858336,55073865,54392628
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,64286489,67039819,69967714
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",59,    Professional and business services,(D),(D),87050033
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),13452785
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,18713018,19729675,(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",47656202,49246005,50458791
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",69,      Educational services,(D),10781494,10966599
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",70,      Health care and social assistance,(D),38464511,39492192
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",20301295,21978588,23237028
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",79,      Accommodation and food services,(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",83,Government and government enterprises,52188066,52824764,54976862
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",,Addenda:,,,
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",87,Natural resources and mining,975404,822403,1173451
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",88,Trade,(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),29832414
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",90,Manufacturing and information,(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,86064013,91604275,91624673
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",92,Private services-providing industries 3/,394709668,417159152,431062771
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",1,All industry total,145505300,152873532,162317708
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",2,  Private industries,129955870,136967199,145942444
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",3,"    Agriculture, forestry, fishing and hunting",(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",6,"    Mining, quarrying, and oil and gas extraction",2838229,2847235,2982367
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",10,    Utilities,937983,(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",11,    Construction,4846492,5318567,6746860
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",12,    Manufacturing,(D),(D),11875300
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",13,      Durable goods manufacturing,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",25,      Nondurable goods manufacturing,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",34,    Wholesale trade,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",35,    Retail trade,7579360,7912024,8215852
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",36,    Transportation and warehousing,(D),(D),6908578
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",45,    Information,12913308,(D),13323234
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",50,"    Finance, insurance, real estate, rental, and leasing",29465829,31449233,32874954
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",51,      Finance and insurance,10037535,(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",56,      Real estate and rental and leasing,19428294,(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",59,    Professional and business services,(D),(D),27247838
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",60,"      Professional, scientific, and technical services",15669106,16581703,(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",64,      Management of companies and enterprises,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",65,      Administrative and support and waste management and remediation services,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",68,"    Educational services, health care, and social assistance",(D),11210449,11802132
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",69,      Educational services,(D),(D),1859657
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",70,      Health care and social assistance,(D),(D),9942474
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",75,"    Arts, entertainment, recreation, accommodation, and food services",5773863,6204917,7121380
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",76,"      Arts, entertainment, and recreation",1695885,1782293,(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",79,      Accommodation and food services,4077978,4422624,(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",82,    Other services (except government and government enterprises),3170855,3447926,3648274
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",83,Government and government enterprises,15549430,15906333,16375265
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",,Addenda:,,,
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",87,Natural resources and mining,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",88,Trade,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",89,Transportation and utilities,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",90,Manufacturing and information,(D),(D),25198533
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",91,Private goods-producing industries 2/,(D),(D),(D)
+19740,"Denver-Aurora-Lakewood, CO (Metropolitan Statistical Area) *",92,Private services-providing industries 3/,(D),(D),(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",1,All industry total,200051064,212159700,219845447
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",2,  Private industries,181591273,194115343,201750125
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",151491,166317,(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",258446,252322,277081
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",10,    Utilities,2240122,(D),(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",11,    Construction,5269985,5713950,6398678
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",12,    Manufacturing,34839248,39418486,43474300
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",13,      Durable goods manufacturing,29860828,34479828,37676554
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,4978420,4938658,5797747
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",35,    Retail trade,12022988,12207233,12342275
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),6127442,6537061
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",45,    Information,6354510,5937552,6380266
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",32875628,35347092,35276508
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",51,      Finance and insurance,10455595,11549217,10154142
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,22420033,23797875,25122366
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",59,    Professional and business services,(D),36588307,(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,7794982,8095858,8169805
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",19675189,20191902,20331412
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",69,      Educational services,1703703,1796263,1828580
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",70,      Health care and social assistance,17971486,18395640,18502832
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",6940229,7696527,7969988
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",1794053,1876249,1912912
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",79,      Accommodation and food services,5146176,5820278,6057075
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),4732366,4953064,4952576
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",83,Government and government enterprises,18459791,18044357,18095323
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",,Addenda:,,,
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",87,Natural resources and mining,409936,418639,(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",88,Trade,(D),(D),(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",90,Manufacturing and information,41193758,45356038,49854567
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,40519169,45551074,(D)
+19820,"Detroit-Warren-Dearborn, MI (Metropolitan Statistical Area)",92,Private services-providing industries 3/,141072104,148564269,(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",1,All industry total,380459547,404431385,423766110
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",2,  Private industries,351554757,374573457,392317292
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",102551,(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",26126441,28161730,30205773
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",10,    Utilities,6600691,6019967,6240284
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",11,    Construction,18487473,21099191,23263107
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",12,    Manufacturing,88972648,87189655,91851233
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),27948158
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),63903075
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",34,    Wholesale trade,34816639,40398046,(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",35,    Retail trade,16329990,17732871,18863650
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),19251049
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",45,    Information,(D),(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",45849228,50103334,52574983
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",51,      Finance and insurance,13904195,16169570,16820432
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,31945032,33933764,35754551
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",59,    Professional and business services,50695597,(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,(D),(D),15481913
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",21568233,22449338,23637477
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",69,      Educational services,(D),(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",70,      Health care and social assistance,(D),(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",9744587,10640673,11493557
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",1911442,2009039,2290329
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",79,      Accommodation and food services,7833144,8631634,9203227
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),6695047,7283520,7679935
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",83,Government and government enterprises,28904790,29857928,31448818
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",,Addenda:,,,
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",87,Natural resources and mining,26228992,(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",88,Trade,51146629,58130916,(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),25491333
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",90,Manufacturing and information,(D),(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,133689114,(D),(D)
+26420,"Houston-The Woodlands-Sugar Land, TX (Metropolitan Statistical Area)",92,Private services-providing industries 3/,217865643,(D),(D)
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",1,All industry total,88096898,89213576,92592492
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",2,  Private industries,78251020,79284063,82454910
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",15031,16284,15057
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",63658,64302,54294
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",10,    Utilities,1639732,1627791,1618690
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",11,    Construction,4898825,3621379,3461383
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",12,    Manufacturing,2973192,3569697,3526598
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",13,      Durable goods manufacturing,2184905,2795668,2662172
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,788287,774029,864426
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",34,    Wholesale trade,3319323,3614769,3716528
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",35,    Retail trade,6009400,6364308,6725850
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",36,    Transportation and warehousing,3866244,4194726,4227307
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",45,    Information,2381363,2423787,2438555
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",18003078,16882965,18076142
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",51,      Finance and insurance,4348836,3469668,3190098
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,13654241,13413296,14886044
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",59,    Professional and business services,9190878,9733046,9906319
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",4523727,4611858,4590034
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",64,      Management of companies and enterprises,1837018,2138276,2273836
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,2830133,2982912,3042449
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",5401715,5643515,5793919
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",69,      Educational services,457724,465520,481431
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",70,      Health care and social assistance,4943992,5177995,5312488
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",18912935,19867535,21202537
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",3169643,3919476,4135777
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",79,      Accommodation and food services,15743292,15948058,17066759
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),1575647,1659958,1691732
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",83,Government and government enterprises,9845878,9929513,10137582
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",,Addenda:,,,
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",87,Natural resources and mining,78688,80586,69351
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",88,Trade,9328723,9979077,10442378
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",89,Transportation and utilities,5505976,5822517,5845997
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",90,Manufacturing and information,5354555,5993485,5965153
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,7950705,7271663,7057332
+29820,"Las Vegas-Henderson-Paradise, NV (Metropolitan Statistical Area)",92,Private services-providing industries 3/,70300314,72012400,75397578
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",1,All industry total,756470973,788081634,820353615
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",2,  Private industries,683804701,715065044,744294878
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",410956,461543,449534
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",3010746,3072013,2968205
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",10,    Utilities,4708080,5003760,5048681
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",11,    Construction,16193544,19864297,22494478
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",12,    Manufacturing,73925867,74273610,77429660
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,46163715,45291900,47590285
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,27762153,28981710,29839375
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",34,    Wholesale trade,54774968,55193843,57689636
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",35,    Retail trade,41913880,43894235,46389322
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",36,    Transportation and warehousing,19466668,19743657,21099448
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",45,    Information,79618413,80686462,86333700
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",179805890,193174053,201524885
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",51,      Finance and insurance,43403356,48335377,49629885
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,136402535,144838676,151895000
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",59,    Professional and business services,98344858,101477215,101687512
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",64257031,66092836,66466080
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,9475579,9910931,10463024
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,24612248,25473448,24758409
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",57469536,60613510,62147010
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",69,      Educational services,10516804,10892383,11141589
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",70,      Health care and social assistance,46952732,49721126,51005421
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",38166770,40758234,41761876
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",19086517,20921658,20828277
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",79,      Accommodation and food services,19080252,19836575,20933598
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),15994526,16848610,17270932
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",83,Government and government enterprises,72666271,73016590,76058737
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",,Addenda:,,,
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",87,Natural resources and mining,3421701,3533556,3417738
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",88,Trade,96688848,99088079,104078957
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",89,Transportation and utilities,24174748,24747417,26148129
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",90,Manufacturing and information,153544280,154960073,163763361
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,93541112,97671463,103341876
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,590263589,617393580,640953002
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",1,All industry total,252715328,259070997,271477303
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",2,  Private industries,223875163,230142792,241819473
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",1028073,1047643,1104102
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",276729,317585,244569
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",10,    Utilities,3601355,3636263,3632086
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",11,    Construction,12077385,8588913,8544322
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",12,    Manufacturing,8644379,8476415,9096415
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",13,      Durable goods manufacturing,5194333,4941439,5266747
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,3450046,3534976,3829669
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",34,    Wholesale trade,23321752,25172585,26096390
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",35,    Retail trade,17940623,18791512,20002561
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",36,    Transportation and warehousing,10674302,10846227,12249862
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",45,    Information,14815913,14850744,16134290
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",52836886,56611517,60394196
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",51,      Finance and insurance,13305589,15219522,16851696
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,39531297,41391996,43542500
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",59,    Professional and business services,32786716,34599513,36058353
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",19935222,20906639,21556411
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",64,      Management of companies and enterprises,3301663,3562656,3908311
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,9549830,10130218,10593631
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",23945007,24467919,25233288
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",69,      Educational services,4339243,4075044,4075223
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",70,      Health care and social assistance,19605764,20392876,21158065
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",14465918,15026754,15073652
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",3244093,3617080,3472168
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",79,      Accommodation and food services,11221825,11409674,11601484
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),7460125,7709201,7955387
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",83,Government and government enterprises,28840165,28928205,29657830
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",,Addenda:,,,
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",87,Natural resources and mining,1304802,1365229,1348672
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",88,Trade,41262374,43964097,46098951
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",89,Transportation and utilities,14275657,14482490,15881948
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",90,Manufacturing and information,23460292,23327158,25230705
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,22026566,18430557,18989409
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",92,Private services-providing industries 3/,201848597,211712236,222830064
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",1,All industry total,197392868,205223887,213332441
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",2,  Private industries,177903236,185358106,192757324
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",585372,660108,511776
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",549951,468210,471175
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",10,    Utilities,2500542,2418203,2522426
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",11,    Construction,5701557,6214648,6995686
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",12,    Manufacturing,28649166,29864161,30751118
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",13,      Durable goods manufacturing,17798329,18436588,20143496
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,10850838,11427573,10607622
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),17345128
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",35,    Retail trade,10041072,10305513,11299285
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),6451061
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",45,    Information,9008532,(D),9335109
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",40405690,43572293,43878092
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",51,      Finance and insurance,18399986,20209047,19886996
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,22005704,23363246,23991097
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",59,    Professional and business services,30644398,31532416,32845580
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),(D)
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D)
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,(D),(D),5759120
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",17455481,18169545,18716407
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",69,      Educational services,(D),2447685,(D)
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",70,      Health care and social assistance,(D),15721859,(D)
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",6458234,6691346,7176755
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",2033482,2014914,2179202
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",79,      Accommodation and food services,4424753,4676433,4997552
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),4163373,4286856,4457727
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",83,Government and government enterprises,19489631,19865781,20575117
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",,Addenda:,,,
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",87,Natural resources and mining,1135323,1128319,982951
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",88,Trade,(D),(D),28644413
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),8973487
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",90,Manufacturing and information,37657698,(D),40086227
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,35486047,37207128,38729754
+33460,"Minneapolis-St. Paul-Bloomington, MN-WI (Metropolitan Statistical Area)",92,Private services-providing industries 3/,142417190,148150978,154027570
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",1,All industry total,1309742851,1401795910,1439677901
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",2,  Private industries,1183680934,1274434717,1305137287
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",(D),329959,423369
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",10,    Utilities,(D),(D),14907306
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",11,    Construction,34108294,36269960,40033913
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",12,    Manufacturing,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,42304919,40680357,(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",35,    Retail trade,61023497,62774198,66150466
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",45,    Information,107146592,109343885,116683915
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",402872382,464080190,462398877
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",51,      Finance and insurance,202480109,250201974,242634027
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,200392273,213878215,219764851
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",59,    Professional and business services,191979839,202260981,(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",125798181,132969923,135769591
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,30802120,32006130,(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,35379538,37284928,38642818
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",115872639,119891988,123636092
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",69,      Educational services,21578430,22771481,23513099
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",70,      Health care and social assistance,94294210,97120508,100122993
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",50624158,55407892,(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",19904202,21745276,(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",79,      Accommodation and food services,30719957,33662617,36400614
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),25592355,27021691,27943524
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",83,Government and government enterprises,126061916,127361193,134540614
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",,Addenda:,,,
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",88,Trade,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",90,Manufacturing and information,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,(D),(D),(D)
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,(D),(D),(D)
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",1,All industry total,93965629,98568541,103413293
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",2,  Private industries,84914685,89259533,93811337
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",472443,561328,548967
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",55998,51227,63513
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",10,    Utilities,881630,892300,902546
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",11,    Construction,3633906,3623724,4030895
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",12,    Manufacturing,4667599,4581784,4957650
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",13,      Durable goods manufacturing,3304139,3193562,3429809
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,1363460,1388222,1527842
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",34,    Wholesale trade,6303360,6589338,6952437
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",35,    Retail trade,6729558,7292380,7713840
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",36,    Transportation and warehousing,3114884,3073627,3350401
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",45,    Information,4284223,4239802,4561404
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",20214882,21500984,22678743
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",51,      Finance and insurance,3996693,4458414,4886627
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,16218189,17042571,17792116
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",59,    Professional and business services,12994339,13788279,14455005
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",6774304,7203305,7482568
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",64,      Management of companies and enterprises,1450866,1780433,1802092
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,4769170,4804541,5170346
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",8654936,9364666,9692387
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",69,      Educational services,1230228,1437652,1546488
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",70,      Health care and social assistance,7424707,7927014,8145899
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",10803241,11454615,11563081
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",4496915,4811598,4603559
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",79,      Accommodation and food services,6306326,6643017,6959522
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),2103685,2245479,2340468
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",83,Government and government enterprises,9050944,9309009,9601956
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",,Addenda:,,,
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",87,Natural resources and mining,528441,612555,612480
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",88,Trade,13032918,13881717,14666277
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",89,Transportation and utilities,3996514,3965927,4252947
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",90,Manufacturing and information,8951822,8821586,9519055
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,8829946,8818062,9601025
+36740,"Orlando-Kissimmee-Sanford, FL (Metropolitan Statistical Area)",92,Private services-providing industries 3/,76084739,80441470,84210312
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",1,All industry total,349811165,364699327,374434278
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",2,  Private industries,315490254,330472650,338342439
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),515847
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",(D),145888,128188
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",10,    Utilities,7051483,6839128,(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",11,    Construction,(D),(D),(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",12,    Manufacturing,(D),(D),(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",34,    Wholesale trade,23597474,24977617,26067515
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",35,    Retail trade,16798033,17042253,17715961
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",36,    Transportation and warehousing,8072711,8547170,8588020
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",45,    Information,26768112,30176906,32579166
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",81864504,86525945,85304883
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",51,      Finance and insurance,35299027,37177112,34308372
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,46565477,49348834,50996512
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",59,    Professional and business services,51834534,54680990,55534448
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),36264385
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,9535465,9579084,(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",40425863,41618337,42711878
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",69,      Educational services,9623010,9903662,9984181
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",70,      Health care and social assistance,30802852,31714676,32727697
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",10101382,10680041,11063071
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",3585455,3768071,3918291
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",79,      Accommodation and food services,6515927,6911970,7144780
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),6409968,6755793,6656052
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",83,Government and government enterprises,34320911,34226677,36091840
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",,Addenda:,,,
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),644035
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",88,Trade,40395507,42019870,43783475
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",89,Transportation and utilities,15124194,15386298,(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",90,Manufacturing and information,(D),(D),(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,42566190,42628470,(D)
+37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD (Metropolitan Statistical Area)",92,Private services-providing industries 3/,272924064,287844181,(D)
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",1,All industry total,182446635,192799880,197943482
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",2,  Private industries,161901576,171790309,176234835
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",723032,691390,749714
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",2430191,2281516,1765242
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",10,    Utilities,3429187,3586883,3558172
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",11,    Construction,6976403,7176939,8105375
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",12,    Manufacturing,17821182,18643968,16766148
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",13,      Durable goods manufacturing,14253022,15245200,13874028
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,3568159,3398769,2892121
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",34,    Wholesale trade,13302945,14576938,14369075
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",35,    Retail trade,14539762,15129400,15201271
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",36,    Transportation and warehousing,5637018,6073038,5975231
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",45,    Information,5543674,5648458,6395001
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",38708176,42624485,45390684
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",51,      Finance and insurance,13221242,15726764,16449676
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,25486934,26897721,28941008
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",59,    Professional and business services,22903451,23757443,25150896
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",11833832,12180108,12477162
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",64,      Management of companies and enterprises,2158824,2423444,2777507
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,8910795,9153891,9896227
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",18185767,18787754,19289436
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",69,      Educational services,2889549,2989201,2932609
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",70,      Health care and social assistance,15296217,15798553,16356827
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",8075168,8981066,9573484
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",1729000,2147221,2415698
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",79,      Accommodation and food services,6346167,6833844,7157787
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),3625621,3831031,3945106
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",83,Government and government enterprises,20545058,21009571,21708648
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",,Addenda:,,,
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",87,Natural resources and mining,3153223,2972906,2514956
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",88,Trade,27842707,29706338,29570346
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",89,Transportation and utilities,9066205,9659922,9533402
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",90,Manufacturing and information,23364856,24292426,23161149
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,27950808,28793813,27386480
+38060,"Phoenix-Mesa-Chandler, AZ (Metropolitan Statistical Area)",92,Private services-providing industries 3/,133950768,142996496,148848354
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",1,All industry total,331268308,364594793,383254722
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",2,  Private industries,297602363,330466908,347145652
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",(D),(D),304687
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",558635,608135,560340
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",10,    Utilities,3231677,3574576,4039641
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",11,    Construction,10838449,11299970,12905189
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",12,    Manufacturing,35747422,38099352,39733885
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,11929222,13272841,14260269
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,23818200,24826511,25473616
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",34,    Wholesale trade,15689779,16245784,17188468
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",35,    Retail trade,16632803,17881107,18742617
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),10144519
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",45,    Information,22952844,24917090,33550375
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",72304544,81176042,84668068
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",51,      Finance and insurance,23523650,28591955,28267784
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,48780894,52584087,56400284
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",59,    Professional and business services,66157569,80391537,76617717
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",48262844,61639782,55353720
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,7986156,8250321,10309846
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,9908569,10501433,10954151
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",24518817,25701486,26651086
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",69,      Educational services,3732047,3896204,4127659
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",70,      Health care and social assistance,20786770,21805282,22523427
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",13355438,14298979,15039004
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",4318740,4721711,4764256
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",79,      Accommodation and food services,9036699,9577268,10274749
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),6491256,6601897,7000056
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",83,Government and government enterprises,33665945,34127885,36109070
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",,Addenda:,,,
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",87,Natural resources and mining,(D),(D),865027
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",88,Trade,32322581,34126891,35931085
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",89,Transportation and utilities,(D),(D),14184160
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",90,Manufacturing and information,58700266,63016442,73284260
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,(D),(D),53504101
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,(D),(D),293641551
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",1,All industry total,251376955,269668824,284258477
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",2,  Private industries,222306802,239269849,252863761
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing and hunting",567037,579466,676716
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",6,"    Mining, quarrying, and oil and gas extraction",151400,117523,121169
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",10,    Utilities,328203,312471,341242
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",11,    Construction,6296481,7275968,8843674
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",12,    Manufacturing,41560125,45064948,46700822
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,36794568,40591350,42235013
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,4765558,4473598,4465809
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",34,    Wholesale trade,15214285,16029076,16567864
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",35,    Retail trade,16692018,18405643,20136859
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",36,    Transportation and warehousing,7870606,8260197,8350195
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",45,    Information,34665613,37876268,40487138
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",39986992,42362616,44620439
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",51,      Finance and insurance,10002082,11003327,10748909
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,29984910,31359290,33871531
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",59,    Professional and business services,29722309,31943460,33182918
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",19486086,20920002,21637117
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,3493353,3942320,4145129
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",65,      Administrative and support and waste management and remediation services,6742869,7081138,7400672
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",16122031,17082764,17814260
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",69,      Educational services,1720577,1784484,1851151
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",70,      Health care and social assistance,14401454,15298280,15963109
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",75,"    Arts, entertainment, recreation, accommodation, and food services",8343937,8923274,9728132
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",76,"      Arts, entertainment, and recreation",2387390,2538090,2750529
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",79,      Accommodation and food services,5956547,6385184,6977603
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",82,    Other services (except government and government enterprises),4785762,5036174,5292333
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",83,Government and government enterprises,29070153,30398975,31394716
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",,Addenda:,,,
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",87,Natural resources and mining,718437,696989,797885
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",88,Trade,31906303,34434719,36704724
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",89,Transportation and utilities,8198809,8572669,8691437
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",90,Manufacturing and information,76225738,82941216,87187960
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",91,Private goods-producing industries 2/,48575044,53037905,56342381
+42660,"Seattle-Tacoma-Bellevue, WA (Metropolitan Statistical Area)",92,Private services-providing industries 3/,173731757,186231944,196521380
