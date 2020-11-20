@@ -1,0 +1,2 @@
+holidays: https://www.kaggle.com/gsnehaa21/federal-holidays-usa-19662020
+gdp: https://www.bea.gov/
