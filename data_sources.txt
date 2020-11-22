@@ -1,2 +1,3 @@
 holidays: https://www.kaggle.com/gsnehaa21/federal-holidays-usa-19662020
 gdp: https://www.bea.gov/
+fuel prices: https://www.eia.gov/dnav/pet/hist/EER_EPJK_PF4_RGC_DPGD.htm
